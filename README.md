@@ -1,9 +1,4 @@
 # Custom Dashboard Gatekeeper Pro
-You're welcome! Moving this to GitHub is a great way to keep your code versioned and shareable. Below is the complete setup: the README.md file and the final version of the plugin code, followed by a quick guide on how to handle GitHub "Releases."
-
-1. The README.md File
-Markdown
-# Custom Dashboard Gatekeeper Pro
 
 A lightweight, developer-friendly WordPress plugin that replaces the cluttered `/wp-admin` dashboard with a custom-designed page for non-administrator users. 
 
